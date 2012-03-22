@@ -1,0 +1,5 @@
+The only thing i changed is, in helloworld.scala, i added println("->>>>>>>Helloworld<<<<<<<-").
+
+I want to disable all other logs, So when i click HOME tab, It will show ->>>>>>>Helloworld<<<<<<<- only in console.
+
+Thank you for advanced
